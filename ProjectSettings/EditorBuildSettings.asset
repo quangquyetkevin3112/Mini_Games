@@ -17,4 +17,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/03_Connect 4/Scenes/Game Play.unity
     guid: c16b31e2b9e3448dcaf8a9f1b9739988
+  - enabled: 1
+    path: Assets/04_Don't Wake The Shark/Scenes/Game Play.unity
+    guid: accfe15350fc143a9afb2454ce33c017
+  - enabled: 1
+    path: Assets/05_Matching Dinosaurs/Scenes/Game Play.unity
+    guid: cf636e3324c7c4028b6d8f47874e6c5d
   m_configObjects: {}
